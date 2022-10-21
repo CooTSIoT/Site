@@ -1,20 +1,20 @@
 # Members
 
-- name: Ahmet Cecen
-  role: Data Scientist / Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
-  url: http://ahmetcecen.github.io/
+- name: Angeles Navarro
+  role: IP
+  img: 
+  github: 
+  gplus: 
+  bio:  
+  url: 
   visible: true
    
-- name: David Brough
-  role: Data Scientist / Materials Informatics
-  img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
-  github: davidbrough1
-  bio: David is a PhD student in the School of Computational Science and Engineering at Georgia Institute of Technology. David earned a Master’s degree in experimental condensed matter physics at Brigham Young University where he fabricated and characterized thin-films and carbon nanotubes used in nanostructured high capacity battery electrodes and in X-ray windows. As an undergraduate, David studied theoretical physics and researched the evolution of chaotic systems using neural networks at Westminster College. He is a trainee in the NSF IGERT FLAMEL program, and one of the lead developers on PyMKS materials informatics toolkit.
-  url: http://davidbrough.net 
+- name: Rafael Asenjo
+  role: Co-IP
+  img: 
+  github: rasenjop
+  bio: Rafael Asenjo is Professor of Computer Architecture at the University of Malaga. He obtained a PhD in Telecommunication Engineering in 1997. His research interests include programming models, parallel programming, heterogeneous computing, parallelization of irregular codes and energy consumption. He has been using the Intel TBB library since 2008 and over the last ten years, he has focused on productively exploiting heterogeneous chips leveraging TBB as the orchestrating framework. In 2013 and 2014 he visited UIUC to work on CPU+GPU chips. In 2015 and 2016 he also started to research into CPU+FPGA chips while visiting the University of Bristol. He served as General Chair for ACM PPoPP'16 and as an Organization Committee member as well as a Program Committee member for several HPC related conferences (PPoPP, SC, PACT, IPDPS, HPCA, EuroPar, and SBAC- PAD). Along with Michael Voss and James Reinders he co-authored the latest book (open access) on Threading Building Blocks (Pro TBB). He is oneAPI Innovator, SYCL Advisory Panel member and ACM member.
+  url: http://www.ac.uma.es/~asenjo 
   visible: true
   
 - name: Surya R. Kalidindi
