@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      New Matlab Script
-author:     Ahmet Cecen
+author:     Rafael Asenjo
 tags: 		matlab workflows template
 subtitle:   Some Short Description of the Script
-category:  project1
+category:  cootsiot
 visualworkflow: true
 ---
 {% if page.visualworkflow == true %}

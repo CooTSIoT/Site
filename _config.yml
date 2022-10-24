@@ -9,8 +9,8 @@ url: "https://cootsiot.github.io"
 # Secondary Parameters
 baseurl: "/Site"
 header-img: img/Banner.jpg
-headercolor: "#000000"
-logo: /Site/img/logos/LogoPPMC.png
+headercolor: "#FF0000"
+logo: /Site/img/logos/LogoCooTSIoT.png
 
 # Tertiary Parameters
 github_username:  cootsiot
@@ -25,7 +25,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","DeletedPosts","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Jekyll Settings
 
@@ -40,7 +40,7 @@ defaults:
 
 # Prose Settings
 prose:
-  ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
+  ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html','DeletedPosts']
   siteurl: 'http://cootsiot.github.io/Site/'
   ispp: true
   media: 'img'

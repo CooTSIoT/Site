@@ -1,10 +1,10 @@
 ---
 layout:     notebook
 title:      New Notebook
-author:     Ahmet Cecen
+author:     Rafael Asenjo
 tags: 		jupyter workflows template
 subtitle:   Showcasing Jupyter Notebook Translator Layout
-category:  project1
+category:  cootsiot
 
 notebookfilename: intro
 visualworkflow: true

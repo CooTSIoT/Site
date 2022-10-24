@@ -1,7 +1,7 @@
 ---
 layout:     	slide
 title:     		New Presentation
-author:     	Ahmet Cecen
+author:     	Rafael Asenjo
 tags:           presentation template
 subtitle:    	Some Short Description of Presentation
 

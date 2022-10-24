@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      New Post
+title:      Example Post
 author:     Rafael Asenjo
 tags: 		post template
 subtitle:  	Some Short Description of Post
-category:  project1
+category:  cootsiot
 ---
 <!-- Start Writing Below in Markdown -->
 
@@ -107,9 +107,6 @@ Head over to the [documentation page](http://projectpages.github.io/ppguide/) fo
 
 # Some Advanced Features
 
-## Data Projector
-
-<embed src="/project-pages/2016/05/02/New-Projector/" height="500px" width="100%">
 
 ## STL
 
