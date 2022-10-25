@@ -19,6 +19,10 @@ disqus_shortname: site
 g-analytics: 
 altmetric: false
 
+gems: [jekyll-paginate]
+pluggins: [jekyll-paginate]
+# This will require each of these gems automatically.
+
 # Build settings
 gems: [jekyll-paginate]
 markdown: kramdown
