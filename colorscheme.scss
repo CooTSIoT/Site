@@ -11,3 +11,15 @@ $header-color: {{ site.headercolor }};
 hr.small {
   border-color: $header-color;
 }
+
+.nav.navbar-nav.navbar-right li a {
+  color: rgb(0, 0, 0);
+}
+
+.navbar-brand{
+  color:rgb(0, 0, 0) !important;
+}
+
+.subheading{
+  font-weight: 700 !important;
+}
