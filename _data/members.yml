@@ -79,6 +79,7 @@
   img: /Site/img/member-pictures/FelipeMunoz.jpg
   bio: Felipe Muñoz is a PhD. student co-advised by IP and Co-IP (FPU) who is working in the design and implementation of an efficient Matrix Profile primitive as well as its ultra-fast implementation based on the LAMP approach for performing anomaly detection over low power platforms on the Edge. His collaboration will be key to implement the novel Contrast Profile operator and ultra-fast LACP that we propose in this project. 
   url: https://www.ac.uma.es/personal/MunozF.html
+  github: FelipeMLopez
   visible: true
 
 - name: Cristian Campos
@@ -86,5 +87,6 @@
   img: /Site/img/member-pictures/DummyPerson.jpg
   bio: Cristian Campos is a PhD. student co-advised by IP and Co-IP (FPU) who is expected to contribute to the evaluation of applications and software proposals, so his contribution is expected in tasks T1.4, T2.1, T2.2 and T2.3 that we propose in this project. 
   url: 
+  github: cricamfe
   visible: true
  
