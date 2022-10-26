@@ -2,9 +2,9 @@
 layout:     post
 title:      Example Post
 author:     Rafael Asenjo
-tags: 		post template
-subtitle:  	Some Short Description of Post
-category:  cootsiot
+tags:       post template
+subtitle:  	Template example for future posts
+category:   news
 ---
 <!-- Start Writing Below in Markdown -->
 

@@ -11,7 +11,17 @@ published: true
 
 This is the web page of the CooTSIoT project, funded by the Spain State Plan for Scientific, Technical and Innovation Research for the period 2021-2023, within the framework of the Recovery, Transformation and Resilience Plan.
 
-# Summary
+## Project data
+
+* Title: **HW-SW co-design and optimization of Time Series based applications for IoT ultra-low power embedded devices**
+* Acronym: **CooTSIoT**
+* Project ID: **TED2021-131527B-I00**
+* Funded by: **MCIN/AEI /10.13039/501100011033 and by European Union Next GenerationEU/ PRTR**
+* IP and Co-IP: **Angeles Navarro and Rafael Asenjo**
+* Duration: **1/12/2022 to 30/11/2024: 24 months**
+* Budget: **233.680,00€** 
+
+## Summary
 
 CooTSIoT will develop new personalized healthcare and smart agriculture monitoring applications and services by leveraging computational resources located at the Edge under the IoT ecosystem. We will take advantage of synergies with project collaborators that are either experts in biomedical applications on wearables or specialists in the study of the impact of water and pathogen stress in subtropical cultivations, along with experts in the development of software and hardware technologies to develop novel ultra-low power (ULP) battery-based embedded systems able to process sensor data on the same device. Therefore, these systems will effectively bring the extraction of knowledge from the Cloud to the Edge, closer to the sensors. To move the services and processing of data to the Edge we will use disruptive technology covering almost all levels of description of a system: in the algorithm level we will innovate with state-of- the-art big data analytics approaches such as Contrast Profile to design a novel anomaly detection method for IoT devices that process time series from sensor data; in the system software level we will pioneer the use of lightweight programming models based on the parallel task paradigm for our targeted ULP power systems; we will design and exploit advanced runtime techniques to best leverage the hardware resources that embeds the applications while minimizing energy consumption; and in the system hardware level we will design and optimize a next generation ULP power System-on-Chip (SoC) device based on the emerging RISC-V architecture, producing devices that run our applications below ~10 mW.
 
