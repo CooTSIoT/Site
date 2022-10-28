@@ -4,7 +4,7 @@
   role: IP
   img: /Site/img/member-pictures/AngelesNavarro.jpg
   github: 
-  bio: Prof. Angeles G. Navarro (AGN), is an expert in heterogeneous programming models, compilers and runtime techniques for multicore and low-power heterogeneous architectures. She also has experience in hardware support for accelerators on heterogenous embedded systems.
+  bio: Prof. Angeles G. Navarro, is an expert in heterogeneous programming models, compilers and runtime techniques for multicore and low-power heterogeneous architectures. She also has experience in hardware support for accelerators on heterogenous embedded systems.
   url: https://www.ac.uma.es/personal/GonzalezMA.html
   visible: true
    
@@ -12,7 +12,7 @@
   role: Co-IP
   img: /Site/img/member-pictures/RafaelAsenjo.jpg
   github: rasenjop
-  bio: Prof. Rafael Asenjo (RAP), is an expert in heterogeneous programming models, runtime techniques and software support tools for parallelization of irregular codes on multicore and heterogeneous architectures. He is one of the pioneers in the use and development of SYCL applications, and the parallel library oneTBB. Hi is Professor of Computer Architecture at the University of Malaga, where he obtained a PhD in Telecommunication Engineering in 1997. His research interests include programming models, parallel programming, heterogeneous computing, parallelization of irregular codes and energy consumption. He has been using the Intel TBB library since 2008 and over the last ten years, he has focused on productively exploiting heterogeneous chips leveraging TBB as the orchestrating framework. In 2013 and 2014 he visited UIUC to work on CPU+GPU chips. In 2015 and 2016 he also started to research into CPU+FPGA chips while visiting the University of Bristol. He served as General Chair for ACM PPoPP'16 and as an Organization Committee member as well as a Program Committee member for several HPC related conferences (PPoPP, SC, PACT, IPDPS, HPCA, EuroPar, and SBAC- PAD). Along with Michael Voss and James Reinders he co-authored the latest book (open access) on Threading Building Blocks (Pro TBB). He is oneAPI Innovator, SYCL Advisory Panel member and ACM member.
+  bio: Prof. Rafael Asenjo, is an expert in heterogeneous programming models, runtime techniques and software support tools for parallelization of irregular codes on multicore and heterogeneous architectures. He is one of the pioneers in the use and development of SYCL applications, and the parallel library oneTBB. Hi is Professor of Computer Architecture at the University of Malaga, where he obtained a PhD in Telecommunication Engineering in 1997. His research interests include programming models, parallel programming, heterogeneous computing, parallelization of irregular codes and energy consumption. He has been using the Intel TBB library since 2008 and over the last ten years, he has focused on productively exploiting heterogeneous chips leveraging TBB as the orchestrating framework. In 2013 and 2014 he visited UIUC to work on CPU+GPU chips. In 2015 and 2016 he also started to research into CPU+FPGA chips while visiting the University of Bristol. He served as General Chair for ACM PPoPP'16 and as an Organization Committee member as well as a Program Committee member for several HPC related conferences (PPoPP, SC, PACT, IPDPS, HPCA, EuroPar, and SBAC- PAD). Along with Michael Voss and James Reinders he co-authored the latest book (open access) on Threading Building Blocks (Pro TBB). He is oneAPI Innovator, SYCL Advisory Panel member and ACM member.
   url: http://www.ac.uma.es/~asenjo 
   visible: true
 
@@ -26,7 +26,7 @@
 - name: Andrés Rodríguez
   role: Research Team
   img: /Site/img/member-pictures/AndresRodriguez.jpg
-  bio: Dr. Andrés Rodríguez Moreno (ARM) has more than 20 years of experience developing parallel applications in the field of bioinformatics and other Big Data applications, and more recently smart agriculture monitoring applications in the IoT field using low power heterogeneous SoCs. His experience includes the evaluation of dynamic power management techniques at runtime to reduce energy consumption on SoCs.
+  bio: Dr. Andrés Rodríguez Moreno has more than 20 years of experience developing parallel applications in the field of bioinformatics and other Big Data applications, and more recently smart agriculture monitoring applications in the IoT field using low power heterogeneous SoCs. His experience includes the evaluation of dynamic power management techniques at runtime to reduce energy consumption on SoCs.
   url: https://www.ac.uma.es/personal/RodriguezA.html
   visible: true
 
