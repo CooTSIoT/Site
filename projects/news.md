@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "CooTSIoT news"
+title: "News"
 description: "Recent events"
 header-img: "img/Banner.jpg"
 category: news

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "CooTSIoT publications"
+title: "Publications"
 description: "List of publications"
 header-img: "img/Banner.jpg"
 category: publication
