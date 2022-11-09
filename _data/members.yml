@@ -28,6 +28,7 @@
   img: /Site/img/member-pictures/AndresRodriguez.jpg
   bio: Dr. Andrés Rodríguez Moreno has more than 20 years of experience developing parallel applications in the field of bioinformatics and other Big Data applications, and more recently smart agriculture monitoring applications in the IoT field using low power heterogeneous SoCs. His experience includes the evaluation of dynamic power management techniques at runtime to reduce energy consumption on SoCs.
   url: https://www.ac.uma.es/personal/RodriguezA.html
+  github: AndresCampus
   visible: true
 
 - name: Francisco Corbera
@@ -35,6 +36,7 @@
   img: /Site/img/member-pictures/FranciscoCorbera.jpg
   bio: Dr. Francisco Corbera Peña is an expert in compiling techniques and runtime support for parallel heterogenous systems that include accelerators. He is also one of the main developers of the HBB library that we will use in this project to develop novel dynamic task scheduling and partitioning approaches that target new ULP platforms as well as to develop the mechanisms to offload kernels to the specific accelerator built for each application.
   url: https://www.ac.uma.es/personal/CorberaF.html
+  github: corbera
   visible: true
 
 - name: José Daniel García
