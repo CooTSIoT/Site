@@ -73,6 +73,7 @@
 - name: Denisa Constantinescu
   role: Colaborator Team
   img: /Site/img/member-pictures/DenisaConstantinescu.jpg
+  github: denisa-c
   bio: Dr. Denisa A. Constantinescu is a former PhD. student co-advised by IP and Co-IP, currently holding a Postdoc at the ESL under the supervision of Prof. Atienza. She defended her Thesis on July 2022. She worked on an epileptic detection application based on ML for the ULP multi-core heterogeneous platform developed by the ESL. Her focus is to identify crucial architectural parameters to enable efficient execution of the algorithms of interest, while at the same time minimizing the energy consumed, and later on, to collaborate in the definition of the multi-core structure of the platform to ensure that the applications are executed with the minimum energy consumption. 
   url: https://people.epfl.ch/denisa.constantinescu?lang=en
   visible: true
